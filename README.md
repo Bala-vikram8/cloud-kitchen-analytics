@@ -1,16 +1,16 @@
 🍽️ Cloud Kitchen Analytics: Performance & Operations Dashboard
  
- Project Overview : Food delivery is booming—but cloud kitchens often struggle to optimize peak hours, streamline operations, and identify top-performing brands and zones. In this project, I built an end-to-end analytics solution using Google BigQuery, machine learning, and Tableau to turn raw order data into actionable business insights for cloud kitchens.
+ Project Overview : Food delivery is booming, but cloud kitchens face constant challenges in predicting peak hours, optimizing staffing, and identifying top-performing brands and locations. I built an end-to-end analytics solution using Google BigQuery (SQL & ML) and Tableau Public to turn real food order data into actionable business insights for cloud kitchen operators.
 
 What I Did
 
-I designed and executed a data engineering and analytics pipeline to solve these business questions:
-
-        •	When are the busiest hours for food delivery?
-
-        •	Which restaurants and zones drive the most orders?
-	
-        •	How can operations be optimized based on predicted demand patterns?
+	•	Designed and executed a data engineering and analytics pipeline to answer
+ 
+	•	When are the busiest hours for food delivery?
+ 
+	•	Which restaurants and subzones drive the most orders?
+ 
+	•	Where do operational bottlenecks exist and how can they be addressed?
 
 How I Did It
 
@@ -22,25 +22,25 @@ Technologies Used
 
 Key Steps
 
-	•	Data Cleaning & Preparation: Used BigQuery SQL to clean and transform 21,000+ order records
+	•	Data cleaning & preparation of 21,000+ real cloud kitchen orders (SQL in BigQuery)
  
-	•	Feature Engineering: Extracted order hours, busy hours, day of week, restaurant, subzone, and order status
+	•	Feature engineering (order hour, busy hour flag, day of week, restaurant/subzone)
  
-	•	Exploratory Analysis: Uncovered order patterns by hour, brand, and geography
+	•	Exploratory analysis (order trends by hour, brand, area)
  
-	•	Machine Learning: Built a logistic regression model to predict busy hours directly in BigQuery ML
+	•	Built and evaluated a logistic regression model to predict busy hours in BigQuery ML
  
-	•	Visualization: Developed an interactive Tableau dashboard to visualize trends, hotspots, and bottlenecks
+	•	Developed an interactive Tableau dashboard for actionable insights
 
 What It Led To
 
-		📈 Predicted Peak (Busy) Hours for kitchen operations
-  
-		🏆 Ranked Top Restaurants & Subzones by order volume
-	
-        📊 Visualized Order Trends by hour, brand, and area
-		
-        ⚡ Identified operational bottlenecks & opportunities for targeted improvements
+	•	Predicted Peak (Busy) Hours for better kitchen scheduling and staffing
+ 
+	•	Identified Top Restaurants & Subzones to target marketing and promos
+ 
+	•	Visualized Operational Trends by hour, restaurant, and location
+ 
+	•	Pinpointed Bottlenecks—such as high cancellation/return rates or uneven order volume
 
 💡 Recommendations
 
@@ -63,13 +63,9 @@ What I Gained
 Project Demo
 
 🎥 Watch the video walkthrough here
+[cloud_kitchen_dashboard.twbx](https://public.tableau.com/views/CloudKitchenAnalysis/CloudKitchenPerformanceOrderAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🙋‍♂️ About Me
 **I'm Bala Vikram** – an aspiring Data Analyst passionate about using data to solve real-world challenges. I'm actively seeking full-time opportunities in data analysis, business intelligence, or analytics roles.
 
 📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bala-vikram-tadikonda/) or drop me a message if you'd like to collaborate or hire!
-
-Project Files
-
-cloud_kitchen_dashboard.twbx — Tableau workbook https://public.tableau.com/views/CloudKitchenAnalysis/CloudKitchenPerformanceOrderAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
- 
