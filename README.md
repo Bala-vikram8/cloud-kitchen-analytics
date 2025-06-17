@@ -38,9 +38,9 @@ What It Led To
   
 		🏆 Ranked Top Restaurants & Subzones by order volume
 	
-    📊 Visualized Order Trends by hour, brand, and area
+                📊 Visualized Order Trends by hour, brand, and area
 		
-    ⚡ Identified operational bottlenecks & opportunities for targeted improvements
+                ⚡ Identified operational bottlenecks & opportunities for targeted improvements
 
 💡 Recommendations
 
