@@ -63,6 +63,7 @@ What I Gained
 Project Demo
 
 🎥 Watch the video walkthrough here
+
 [cloud_kitchen_dashboard.twbx](https://public.tableau.com/views/CloudKitchenAnalysis/CloudKitchenPerformanceOrderAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🙋‍♂️ About Me
