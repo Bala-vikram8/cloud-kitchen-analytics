@@ -6,11 +6,11 @@ What I Did
 
 I designed and executed a data engineering and analytics pipeline to solve these business questions:
 
-	•	When are the busiest hours for food delivery?
+        •	When are the busiest hours for food delivery?
 
-  •	Which restaurants and zones drive the most orders?
+        •	Which restaurants and zones drive the most orders?
 	
-  •	How can operations be optimized based on predicted demand patterns?
+        •	How can operations be optimized based on predicted demand patterns?
 
 How I Did It
 
@@ -38,20 +38,26 @@ What It Led To
   
 		🏆 Ranked Top Restaurants & Subzones by order volume
 	
-                📊 Visualized Order Trends by hour, brand, and area
+        📊 Visualized Order Trends by hour, brand, and area
 		
-                ⚡ Identified operational bottlenecks & opportunities for targeted improvements
+        ⚡ Identified operational bottlenecks & opportunities for targeted improvements
 
 💡 Recommendations
 
 Based on the data, I recommend:
-	•	Increase staffing and prep during 7–10 PM busy hours
-	•	Double-down on top-performing brands and subzones for promotions
-	•	Streamline operations for “delivered” and “cancelled” order patterns
+
+        •	Increase staffing and prep during 7–10 PM busy hours
+
+        •	Double-down on top-performing brands and subzones for promotions
+	
+        •	Streamline operations for “delivered” and “cancelled” order patterns
 
 What I Gained
+
 	•	End-to-end project experience: data engineering, ML, and visualization
+ 
 	•	Hands-on practice with BigQuery ML and Tableau dashboarding
+ 
 	•	Real-world data storytelling for business decision makers
 
 Project Demo
