@@ -63,4 +63,8 @@ What I Gained
 Project Demo
 
 🎥 Watch the video walkthrough here
+
+Project Files
+
+cloud_kitchen_dashboard.twbx — Tableau workbook https://public.tableau.com/views/CloudKitchenAnalysis/CloudKitchenPerformanceOrderAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
