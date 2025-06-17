@@ -64,6 +64,11 @@ Project Demo
 
 🎥 Watch the video walkthrough here
 
+## 🙋‍♂️ About Me
+**I'm Bala Vikram** – an aspiring Data Analyst passionate about using data to solve real-world challenges. I'm actively seeking full-time opportunities in data analysis, business intelligence, or analytics roles.
+
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bala-vikram-tadikonda/) or drop me a message if you'd like to collaborate or hire!
+
 Project Files
 
 cloud_kitchen_dashboard.twbx — Tableau workbook https://public.tableau.com/views/CloudKitchenAnalysis/CloudKitchenPerformanceOrderAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
