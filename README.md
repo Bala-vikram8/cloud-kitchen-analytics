@@ -34,13 +34,13 @@ Key Steps
 
 What It Led To
 
-	•	Predicted Peak (Busy) Hours for better kitchen scheduling and staffing
+	🕒       Predicted Peak (Busy) Hours for better kitchen scheduling and staffing
  
-	•	Identified Top Restaurants & Subzones to target marketing and promos
+	🏆 	Identified Top Restaurants & Subzones to target marketing and promos
  
-	•	Visualized Operational Trends by hour, restaurant, and location
+	📉	Visualized Operational Trends by hour, restaurant, and location
  
-	•	Pinpointed Bottlenecks—such as high cancellation/return rates or uneven order volume
+	📊	Pinpointed Bottlenecks—such as high cancellation/return rates or uneven order volume
 
 💡 Recommendations
 
@@ -60,9 +60,12 @@ What I Gained
  
 	•	Real-world data storytelling for business decision makers
 
-Project Demo
+🎥 Project Demo
 
 🎥 Watch the video walkthrough here
+
+
+## 📁 Project Files
 
 [cloud_kitchen_dashboard.twbx](https://public.tableau.com/views/CloudKitchenAnalysis/CloudKitchenPerformanceOrderAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
