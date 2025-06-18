@@ -1,4 +1,4 @@
-🍽️ Cloud Kitchen Analytics: Performance & Operations Dashboard
+**🍽️ Cloud Kitchen Analytics: Performance & Operations Dashboard**
  
  Project Overview : Food delivery is booming, but cloud kitchens face constant challenges in predicting peak hours, optimizing staffing, and identifying top-performing brands and locations. I built an end-to-end analytics solution using Google BigQuery (SQL & ML) and Tableau Public to turn real food order data into actionable business insights for cloud kitchen operators.
 
